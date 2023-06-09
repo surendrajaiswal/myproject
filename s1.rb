@@ -1,3 +1,4 @@
 a=10
 b=20
-puts a+b
+c=30
+puts a+b-c
